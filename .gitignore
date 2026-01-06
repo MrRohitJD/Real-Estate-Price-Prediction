@@ -1,1 +1,44 @@
-one.ipynb
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Model artifacts
+models/
+checkpoints/
+*.ckpt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data/outputs directories (optional)
+data/
+outputs/
+
+
+# Ignore any other files you want to exclude
+main_old.py

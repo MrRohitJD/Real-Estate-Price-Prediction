@@ -1,0 +1,11 @@
+# Minimal dependencies for this project
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.2
+joblib>=1.2
+jupyter
+
+# Optional (uncomment if needed)
+#matplotlib
+#seaborn
+#scipy
